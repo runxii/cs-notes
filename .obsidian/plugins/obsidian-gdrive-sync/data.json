@@ -1,0 +1,41 @@
+{
+  "refreshToken": "1//05bzUe5UiQdImCgYIARAAGAUSNwF-L9IrIkO5rUwjUBrpxMFzK2k00no1RfZjbdno_y92ds3e8D1_bTK6vgueN1fgkJDJqpzTKe8",
+  "accessToken": "ya29.a0AeDClZAleC03-SVZKaUxBTYhlBb2F25fcxwHV-6ZQzNCnYqUBoSNz2VMaT6yHUG7ULSVbKA2vhOcYhKbXjxxuzJG7SoriLwzVmvezlODsHbRmAWwvOD1LEDZBTtD3iynTAKnxDfnpxJqdvW0z7zkBq8U9YoOvxfaiIcH8UHmk9kaCgYKAVASARISFQHGX2MiIL5e2rPGcCJX14yQoOgIFA0178",
+  "accessTokenExpiryTime": 1733264159422,
+  "validToken": true,
+  "vaultId": "1OtPlgnfphvtxW6pe1ShmdVma7H6HGtFj",
+  "filesList": [
+    {
+      "mimeType": "application/json",
+      "id": "1TfaIO0LrPmKcRdh7o8thgiliD9Ni6VmA",
+      "name": "CMD/Node.js.md",
+      "modifiedTime": "2024-11-14T14:09:04.073Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1OuU4OIDpyJTM0oQl81iMRF5331nDPSFA",
+      "name": "CMD/nvm.md",
+      "modifiedTime": "2024-11-14T13:51:26.806Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1qhzfarDw86T83kgmMGoS0rC9gqOxf4b5",
+      "name": "CMD/vim.md",
+      "modifiedTime": "2024-11-14T13:45:19.156Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1NVWJDWZ-xt7q679uAxUFtN0XAfmmHqxu",
+      "name": "CMD/git.md",
+      "modifiedTime": "2024-11-14T13:45:16.287Z"
+    }
+  ],
+  "vaultInit": true,
+  "rootFolderId": "1ru2VK1cva_vGU8ngEwAkjSq7vDVrSoV2",
+  "refresh": false,
+  "refreshTime": "5",
+  "autoRefreshBinaryFiles": "1",
+  "errorLoggingToFile": false,
+  "verboseLoggingToFile": false,
+  "blacklistPaths": []
+}

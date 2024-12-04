@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "2adcccefddefb493",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e353e8957d45c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d63460a68b4f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMD/Node.js.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Node.js"
+            }
+          },
+          {
+            "id": "2301e9cd678d10c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ff58d74595fe9a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff793a9ed8ddacc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df4ff503cbcb2067",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4902c65636f1e438",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5e03e348119bccf0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ab7f89097b3e995",
+    "type": "split",
+    "children": [
+      {
+        "id": "8439e4318def8881",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baaed9b192c3486f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Front-end/JavaScript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for JavaScript"
+            }
+          },
+          {
+            "id": "8ef4c7c76f0ebc68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Front-end/JavaScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from JavaScript"
+            }
+          },
+          {
+            "id": "27c58eb1abbcb9b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80ef3e6f6c0955db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-gdrive-sync:Upload Current File": false,
+      "obsidian-gdrive-sync:Download Current File": false
+    }
+  },
+  "active": "2301e9cd678d10c5",
+  "lastOpenFiles": [
+    "CMD/nvm.md",
+    "CMD/Node.js.md",
+    "Node.js.md",
+    "CMD/git.md",
+    "CMD/vim.md",
+    "Front-end/JavaScript.md",
+    "CMD/nvm",
+    "CMD",
+    "Front-end/frontend concepts/DOM.md",
+    "Front-end/CSS.md",
+    "Contextual/Game Analysis.md",
+    "CPP/Class.md",
+    "CPP/STL.md",
+    "CPP/Unordered Set.md",
+    "CPP/Vector.md",
+    "Front-end/HTML.md",
+    "Welcome.md",
+    "Simple UIUX designer resume.docx",
+    "Job Searching/Resume.md",
+    "Job Searching",
+    "Design Pattern in OOP/Design Pattern.md",
+    "Design Pattern in OOP",
+    "Contextual",
+    "pic/css-margin-and-padding.png",
+    "Front-end/frontend concepts",
+    "pic/3ds-make-unique.png",
+    "pic/3ds-snap-toggle.png",
+    "pic/3ds-snap-vertex.png",
+    "pic",
+    "3D modeling/3Ds Max.md",
+    "3D modeling",
+    "CPP"
+  ]
+}

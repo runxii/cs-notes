@@ -1,0 +1,10 @@
+{
+  "highlighterStyle": "none",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Green": "#BBFABBA6"
+  },
+  "highlighterOrder": [
+    "Green"
+  ]
+}
